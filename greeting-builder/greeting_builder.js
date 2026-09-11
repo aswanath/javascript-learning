@@ -14,6 +14,7 @@ function createGreeting(firstName, lastName, timeOfDay){
 }
 
 
+//testing
 console.log(createGreeting('Ava', 'Stone', 'morning'));
 console.log(createGreeting('Noah', 'Kim', 'evening'));
 console.log(createGreeting('Mina', 'Patel', 'afternoon'));
