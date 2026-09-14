@@ -1,2 +1,3 @@
 greeting-builder: https://roadmap.sh/projects/js-greeting-builder
 temperature-converter: https://roadmap.sh/projects/js-temperature-converter
+number-checker: https://roadmap.sh/projects/js-number-checker
