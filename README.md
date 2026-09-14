@@ -4,3 +4,4 @@ number-checker: https://roadmap.sh/projects/js-number-checker
 string-formatter: https://roadmap.sh/projects/js-string-formatter
 price-calculator: https://roadmap.sh/projects/js-price-calculator
 cart-total-calculator: https://roadmap.sh/projects/js-cart-total-calculator
+grade-report-generator: https://roadmap.sh/projects/js-grade-report-generator
