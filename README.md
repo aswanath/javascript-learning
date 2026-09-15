@@ -9,3 +9,4 @@ task-list-utilities: https://roadmap.sh/projects/js-task-list-utilities
 expense-summary: https://roadmap.sh/projects/js-expense-summary
 product-search-and-filter: https://roadmap.sh/projects/js-product-search-and-filter
 user-profile-formatter: https://roadmap.sh/projects/js-user-profile-formatter
+quiz-score-calculator: https://roadmap.sh/projects/js-quiz-score-calculator
