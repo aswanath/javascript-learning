@@ -11,3 +11,4 @@ product-search-and-filter: https://roadmap.sh/projects/js-product-search-and-fil
 user-profile-formatter: https://roadmap.sh/projects/js-user-profile-formatter
 quiz-score-calculator: https://roadmap.sh/projects/js-quiz-score-calculator
 json-response-normalizer: https://roadmap.sh/projects/js-json-response-normalizer
+password-rule-checker: https://roadmap.sh/projects/js-password-rule-checker
