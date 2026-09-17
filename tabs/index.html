@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    <div>
+        <button class="tab-btn active" onclick="switchTab(event,'tab-1')">Tab 1</button>
+        <button class="tab-btn" onclick="switchTab(event,'tab-2')">Tab 2</button>
+        <button class="tab-btn" onclick="switchTab(event,'tab-3')">Tab 3</button>
+        <button class="tab-btn" onclick="switchTab(event,'tab-4')">Tab 4</button>
+    </div>
+
+    <div id="tab-1" class="tab-content active">
+        <p> This is the first tab</p>
+    </div>
+
+    <div id="tab-2" class="tab-content">
+        <p> This is the second tab</p>
+    </div>
+
+    <div id="tab-3" class="tab-content">
+        <p> This is the third tab</p>
+    </div>
+
+    <div id="tab-4" class="tab-content">
+        <p> This is the fourth tab</p>
+    </div>
+</body>
+
+</html>

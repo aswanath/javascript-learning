@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  min-height: 100vh;
+}
+.tab-btn {
+  margin: 10px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.tab-btn.active {
+  background-color: aqua;
+}
+.tab-content {
+  display: none;
+}
+.tab-content.active {
+  display: block;
+}
